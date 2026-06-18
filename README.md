@@ -1,21 +1,25 @@
 # ascii-snake
 i've got a snake in my konsole
 
-# Setup (linux)
+# Setup
 
-## easy
+## Linux
+
+### easy
 run setup.sh in your konsole
-## manual
+### manual
 `mkdir build` <br>
 `cd build` <br>
 `cmake ../` <br>
 `cd ..` <br>
 
-# Building (linux)
+# Building
 
-## easy
+## Linux
+
+### easy
 run build.sh in your konsole
-## manual:
+### manual:
 `cmake --build build` <br>
 
 # ?
