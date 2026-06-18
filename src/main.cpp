@@ -333,7 +333,7 @@ int main() {
         } else if (kb > 0) resetGame();
 
         // draw
-        clear(" ", WHITE);
+        clear("█", BLACK);
         apple.draw();
         plr.draw();
         
