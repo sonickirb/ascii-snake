@@ -1,19 +1,23 @@
 # ascii-snake
 i've got a snake in my konsole
 
-# setup
+# Setup
 
 ## easy
 run setup.sh in your konsole
 ## manual
-```mkdir build```
-```cd build```
-```cmake ../```
-```cd ..```
+`mkdir build` <br>
+`cd build` <br>
+`cmake ../` <br>
+`cd ..` <br>
 
-# building
+# Building
 
 ## easy
 run build.sh in your konsole
 ## manual:
-```cmake --build build```
+`cmake --build build` <br>
+
+# ?
+
+i reccomend setting your konsole to use a square font, but it dosen't really matter
