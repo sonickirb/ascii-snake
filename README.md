@@ -1,7 +1,7 @@
 # ascii-snake
 i've got a snake in my konsole
 
-# Setup
+# Setup (linux)
 
 ## easy
 run setup.sh in your konsole
@@ -11,7 +11,7 @@ run setup.sh in your konsole
 `cmake ../` <br>
 `cd ..` <br>
 
-# Building
+# Building (linux)
 
 ## easy
 run build.sh in your konsole
