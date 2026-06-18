@@ -5,9 +5,9 @@ i've got a snake in my konsole
 
 ## Linux
 
-### easy
+### easy:
 run setup.sh in your konsole
-### manual
+### manual:
 `mkdir build` <br>
 `cd build` <br>
 `cmake ../` <br>
@@ -17,7 +17,7 @@ run setup.sh in your konsole
 
 ## Linux
 
-### easy
+### easy:
 run build.sh in your konsole
 ### manual:
 `cmake --build build` <br>
